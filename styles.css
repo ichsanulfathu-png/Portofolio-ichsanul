@@ -1,0 +1,45 @@
+/* Reset CSS (Best Practice) */
+
+* {
+
+margin: 0;
+
+padding: 0;
+
+box-sizing: border-box;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+
+background-color: #12544F; /* Warna background gelap */
+/* Reset CSS (Best Practice) */
+
+* {
+
+margin: 0;
+
+padding: 0;
+
+box-sizing: border-box;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+
+background-color: #0f172a; /* Warna background gelap */
+
+color: #f8fafc; /* Warna teks terang */
+
+}
+
+/* --- Styling Navigasi --- */
+
+header {
+
+background-color: rgba(15, 23, 42, 0.9);
+
